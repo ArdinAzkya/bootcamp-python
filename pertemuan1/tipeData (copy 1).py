@@ -1,5 +1,0 @@
-tahun_lahir = int(input("Tahun lahir: "))
-tahun_sekarang = int(input("Tahun Sekarang: "))
-umur = tahun_sekarang - tahun_lahir
-
-print("Perkiraan Umur: ", umur)
